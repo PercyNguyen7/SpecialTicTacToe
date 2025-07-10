@@ -13,6 +13,11 @@ Capture Mechanics: Similar to Checkers, pieces are captured by jumping over the 
 
 ![turn-played](https://github.com/user-attachments/assets/93c31657-117c-474b-b41c-2122552b18e8)
 
+## Planning  
+UML Diagram  
+![40180660_A2_UML](https://github.com/user-attachments/assets/c7cd8e6e-5645-4e23-8cb8-00a721b113ac)
+
+
 ## Key Features
 Multiplayer: Play with a friend on the same device.
 
